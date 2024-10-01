@@ -1,0 +1,21 @@
+<nav>
+	<div class="container d-flex flex-column flex-md-row justify-content-between">
+		<a class="py-2 href="#">
+			<img src="#" height="25px">
+		</a>
+
+		<a class="py-2 d-md-inline-block" href="home">Home</a>
+		<a class="py-2 d-md-inline-block" href="home">Sobre nós</a>
+		<a class="py-2 d-md-inline-block" href="home">Preços</a>
+		<a class="py-2 d-md-inline-block" href="home">Contato</a>
+	</div>
+</nav>
+
+<section id="home">
+	<div class="overflow-hidde mb-4 text-center bg-dark text-white">
+		<div class="p-lg-5 my-5">
+			<h1 class="displau-4"><strong>EDUCAÇÃO 4.0</strong></h1>
+			<p class="lead"> Estamos construindo um novo jeito de educar e de ensinar
+		</div>
+	<div>	
+</section>	
